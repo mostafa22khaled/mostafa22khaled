@@ -40,9 +40,3 @@
 <img align="right" height="150" src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif?cid=ecf05e47deanydw3akugtootce7skur4j0ztjmprk557lk6t&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mostafa22khaled/mostafa22khaled/output/snake.svg" alt="Snake animation" />
-
-###
