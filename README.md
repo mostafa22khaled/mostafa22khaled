@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Web Developer | UI/UX designer</h2>
+<h2 align="left">Frontend developer(Reactjs & Nextjs)  | UI/UX designer</h2>
 
 ###
 
