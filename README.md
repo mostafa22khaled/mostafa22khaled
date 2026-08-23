@@ -8,13 +8,10 @@
 
 </div>
 
----
-
 <h2 align="left">🖥️ PROFILE.EXE</h2>
 
 <div align="left">
 
-```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                    SYSTEM INFORMATION                       ║
 ╠══════════════════════════════════════════════════════════════╣
@@ -26,12 +23,107 @@
 ║  Status        : Full-Time Frontend Developer                ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
+
 </div>
-<h2 align="left">👨‍💻 About Me</h2> <p align="left"> I'm a <b>Junior Frontend Developer</b> specializing in building modern, responsive and user-friendly web applications. </p> <ul> <li>⚛️ React.js & Next.js Developer</li> <li>💻 JavaScript & TypeScript</li> <li>🌐 Building responsive web applications</li> <li>🧩 Working with real-world APIs</li> <li>🔄 Redux Toolkit & React Query</li> <li>🏢 Full-Time Frontend Developer at <b>RockAI Dev</b></li> </ul>
-<h2 align="left">⚡ Tech Stack</h2> <h3 align="left">Frontend</h3> <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="Next.js" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="Tailwind CSS" /> </div> <h3 align="left">State Management & Tools</h3> <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="45" alt="Redux Toolkit" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="45" alt="Postman" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="Figma" /> </div>
-<h2 align="left">📊 GitHub</h2> <div align="center"> <img src="https://img.shields.io/github/followers/mostafa22khaled?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub Followers" /> <img src="https://img.shields.io/github/stars/mostafa22khaled?affiliations=OWNER&style=for-the-badge&logo=github&color=181717" alt="GitHub Stars" /> <img src="https://img.shields.io/github/repo-count/mostafa22khaled?style=for-the-badge&logo=github&color=181717" alt="GitHub Repositories" /> </div>
-<h2 align="left">🧠 What I Work With</h2> <div align="left"> <ul> <li><b>Frontend:</b> React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3</li> <li><b>UI / Styling:</b> Tailwind CSS, Bootstrap</li> <li><b>State & Data:</b> Redux Toolkit, React Query, REST APIs</li> <li><b>Tools:</b> Git, GitHub, VS Code, Postman, Figma</li> </ul> </div>
-<h2 align="left">🏢 Current Role</h2> <div align="center"> <table> <tr> <td align="center">
+
+<h2 align="left">👨‍💻 About Me</h2>
+
+<p align="left">
+I'm a <b>Junior Frontend Developer</b> specializing in building modern, responsive and user-friendly web applications.
+</p>
+
+<ul>
+<li>⚛️ React.js & Next.js Developer</li>
+<li>💻 JavaScript & TypeScript</li>
+<li>🌐 Building responsive web applications</li>
+<li>🧩 Working with real-world APIs</li>
+<li>🔄 Redux Toolkit & React Query</li>
+<li>🏢 Full-Time Frontend Developer at <b>RockAI Dev</b></li>
+</ul>
+
+<h2 align="left">⚡ Tech Stack</h2>
+
+<h3 align="left">Frontend</h3>
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="Next.js" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="Tailwind CSS" />
+
+</div>
+
+<h3 align="left">State Management & Tools</h3>
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="45" alt="Redux Toolkit" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="45" alt="Postman" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="Figma" />
+
+</div>
+
+<h2 align="left">📊 GitHub</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/mostafa22khaled?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub Followers" />
+
+<img src="https://img.shields.io/github/stars/mostafa22khaled?affiliations=OWNER&style=for-the-badge&logo=github&color=181717" alt="GitHub Stars" />
+
+<img src="https://img.shields.io/github/repo-count/mostafa22khaled?style=for-the-badge&logo=github&color=181717" alt="GitHub Repositories" />
+
+</div>
+
+<h2 align="left">🧠 What I Work With</h2>
+
+<div align="left">
+
+<ul>
+<li><b>Frontend:</b> React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3</li>
+<li><b>UI / Styling:</b> Tailwind CSS, Bootstrap</li>
+<li><b>State & Data:</b> Redux Toolkit, React Query, REST APIs</li>
+<li><b>Tools:</b> Git, GitHub, VS Code, Postman, Figma</li>
+</ul>
+
+</div>
+
+<h2 align="left">🏢 Current Role</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
 
 <b>💼 Junior Frontend Developer</b>
 
@@ -52,7 +144,30 @@
 Building real-world frontend applications
 and working as part of a professional development team.
 
-</td> </tr> </table> </div>
-<h2 align="left">📫 Connect With Me</h2> <div align="center"> <a href="https://github.com/mostafa22khaled"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/mustafakhaled22"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </div>
-<div align="center"> <h3>🚀 Building better experiences, one component at a time.</h3> <p>⭐ Thanks for visiting my profile!</p> </div> ```
+</td>
+</tr>
+</table>
 
+</div>
+
+<h2 align="left">📫 Connect With Me</h2>
+
+<div align="center">
+
+<a href="https://github.com/mostafa22khaled">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://www.linkedin.com/in/mustafakhaled22">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+</div>
+
+<div align="center">
+
+<h3>🚀 Building better experiences, one component at a time.</h3>
+
+<p>⭐ Thanks for visiting my profile!</p>
+
+</div>
