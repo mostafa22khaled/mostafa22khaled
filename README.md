@@ -124,3 +124,13 @@ I'm a <b>Junior Frontend Developer</b> specializing in building modern, responsi
 <p>⭐ Thanks for visiting my profile!</p>
 
 </div>
+
+---
+
+<h2 align="left">📈 GitHub Contributions</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafa22khaled&theme=github-compact&hide_border=true&radius=8" width="100%" alt="GitHub Contribution Graph" />
+
+</div>
