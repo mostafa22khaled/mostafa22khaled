@@ -12,7 +12,7 @@
 
 <td width="48%" valign="top">
 
-<h2>💻 PROFILE.EXE</h2>
+<h2>💻 PROFILE</h2>
 
 <hr>
 
