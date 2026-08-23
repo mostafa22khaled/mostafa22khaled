@@ -1,16 +1,18 @@
 <h1 align="left">Hi 👋! My name is Mostafa Khaled</h1>
 
-<h2 align="left">Junior Frontend Developer (React.js & Next.js)</h2>
+<h3 align="left">Junior Frontend Developer (React.js & Next.js)</h3>
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
 
-<img src="./profile-cyber-portrait.png" alt="Mostafa Khaled" width="520" />
+<img src="./profile-cyber-portrait.png" alt="Mostafa Khaled" width="100%" />
 
-</div>
+</td>
 
----
+<td width="50%" valign="middle">
 
-<h2 align="left">🖥️ PROFILE.EXE</h2>
+<h2>🖥️ PROFILE.EXE</h2>
 
 <table>
 <tr>
@@ -22,17 +24,25 @@
 
 <b>Name:</b> Mostafa Khaled
 
-<br>
+<br><br>
+
 <b>Role:</b> Junior Frontend Developer
 
-<br>
+<br><br>
+
 <b>Specialization:</b> React.js & Next.js
 
-<br>
+<br><br>
+
 <b>Company:</b> RockAI Dev
 
-<br>
+<br><br>
+
 <b>Status:</b> Full-Time Frontend Developer
+
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
@@ -42,7 +52,7 @@
 
 <h2 align="left">👨‍💻 About Me</h2>
 
-<p align="left">
+<p>
 I'm a <b>Junior Frontend Developer</b> specializing in building modern, responsive and user-friendly web applications.
 </p>
 
@@ -118,40 +128,6 @@ I'm a <b>Junior Frontend Developer</b> specializing in building modern, responsi
 <li><b>State & Data:</b> Redux Toolkit, React Query, REST APIs</li>
 <li><b>Tools:</b> Git, GitHub, VS Code, Postman, Figma</li>
 </ul>
-
----
-
-<h2 align="left">🏢 Current Role</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-<b>💼 Junior Frontend Developer</b>
-
-<br><br>
-
-<b>Company:</b> RockAI Dev
-
-<br><br>
-
-<b>Type:</b> Full-Time
-
-<br><br>
-
-<b>Focus:</b> React.js & Next.js
-
-<br><br>
-
-Building real-world frontend applications and working as part of a professional development team.
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
