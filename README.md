@@ -10,21 +10,57 @@
 
 <h2 align="left">🖥️ PROFILE.EXE</h2>
 
-<div align="left">
+<table>
+<tr>
+<td width="48%" align="center">
 
-╔══════════════════════════════════════════════════════════════╗
-║                    SYSTEM INFORMATION                       ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  Name          : Mostafa Khaled                              ║
-║  Role          : Junior Frontend Developer                   ║
-║  Specialization: React.js & Next.js                          ║
-║  Company       : RockAI Dev                                  ║
-║  Status        : Full-Time Frontend Developer                ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+<strong>⚡ PORTRAIT</strong>
 
-</div>
+<br><br>
+
+<img src="./profile-cyber-portrait.png" alt="Mostafa Khaled Cyber Portrait" width="360" />
+
+<br>
+
+<code>BUILDING DIGITAL EXPERIENCES.</code>
+
+</td>
+
+<td width="52%">
+
+<strong>💻 SYSTEM INFORMATION</strong>
+
+<br><br>
+
+<strong>Name</strong> : Mostafa Khaled
+<br>
+<strong>Role</strong> : Junior Frontend Developer
+<br>
+<strong>Specialization</strong> : React.js & Next.js
+<br>
+<strong>Company</strong> : RockAI Dev
+<br>
+<strong>Status</strong> : Full-Time Frontend Developer
+
+<br><br>
+
+<strong>⚡ TECH STACK</strong>
+
+<br><br>
+
+<strong>Frontend</strong> : HTML5, CSS3, JavaScript
+<br>
+<strong>Frameworks</strong> : React.js, Next.js
+<br>
+<strong>Styling</strong> : Tailwind CSS, Bootstrap
+<br>
+<strong>State</strong> : Redux Toolkit, React Query
+<br>
+<strong>Tools</strong> : Git, GitHub, VS Code, Postman, Figma
+
+</td>
+</tr>
+</table>
 
 <h2 align="left">👨‍💻 About Me</h2>
 
@@ -46,50 +82,35 @@ I'm a <b>Junior Frontend Developer</b> specializing in building modern, responsi
 <h3 align="left">Frontend</h3>
 
 <div align="left">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="Next.js" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="Tailwind CSS" />
-
 </div>
 
 <h3 align="left">State Management & Tools</h3>
 
 <div align="left">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="45" alt="Redux Toolkit" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="45" alt="Postman" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="Figma" />
-
 </div>
 
 <h2 align="left">📊 GitHub</h2>
@@ -97,16 +118,12 @@ I'm a <b>Junior Frontend Developer</b> specializing in building modern, responsi
 <div align="center">
 
 <img src="https://img.shields.io/github/followers/mostafa22khaled?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub Followers" />
-
+&nbsp;
 <img src="https://img.shields.io/github/stars/mostafa22khaled?affiliations=OWNER&style=for-the-badge&logo=github&color=181717" alt="GitHub Stars" />
-
-<img src="https://img.shields.io/github/repo-count/mostafa22khaled?style=for-the-badge&logo=github&color=181717" alt="GitHub Repositories" />
 
 </div>
 
 <h2 align="left">🧠 What I Work With</h2>
-
-<div align="left">
 
 <ul>
 <li><b>Frontend:</b> React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3</li>
@@ -115,40 +132,15 @@ I'm a <b>Junior Frontend Developer</b> specializing in building modern, responsi
 <li><b>Tools:</b> Git, GitHub, VS Code, Postman, Figma</li>
 </ul>
 
-</div>
-
 <h2 align="left">🏢 Current Role</h2>
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-<b>💼 Junior Frontend Developer</b>
-
+<p align="left">
+<b>💼 Junior Frontend Developer — RockAI Dev</b>
 <br><br>
-
-<b>Company:</b> RockAI Dev
-
+Full-Time · React.js & Next.js
 <br><br>
-
-<b>Type:</b> Full-Time
-
-<br><br>
-
-<b>Focus:</b> React.js & Next.js
-
-<br><br>
-
-Building real-world frontend applications
-and working as part of a professional development team.
-
-</td>
-</tr>
-</table>
-
-</div>
+Building real-world frontend applications and working as part of a professional development team.
+</p>
 
 <h2 align="left">📫 Connect With Me</h2>
 
