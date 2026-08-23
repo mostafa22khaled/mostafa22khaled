@@ -4,51 +4,31 @@
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="52%" align="center" valign="middle">
 
-<img src="./profile-cyber-portrait.png" alt="Mostafa Khaled" width="100%" />
+<img src="./profile-cyber-portrait.png" alt="Mostafa Khaled" width="420" />
 
 </td>
 
-<td width="50%" valign="middle">
+<td width="48%" valign="top">
 
-<h2>🖥️ PROFILE.EXE</h2>
+<h2>💻 PROFILE.EXE</h2>
 
-<table>
-<tr>
-<td>
+<hr>
 
-<b>SYSTEM INFORMATION</b>
+<p><b>SYSTEM INFORMATION</b></p>
 
-<br><br>
-
-<b>Name:</b> Mostafa Khaled
-
-<br><br>
-
-<b>Role:</b> Junior Frontend Developer
-
-<br><br>
-
-<b>Specialization:</b> React.js & Next.js
-
-<br><br>
-
-<b>Company:</b> RockAI Dev
-
-<br><br>
-
+<p>
+<b>Name:</b> Mostafa Khaled<br>
+<b>Role:</b> Junior Frontend Developer<br>
+<b>Specialization:</b> React.js & Next.js<br>
+<b>Company:</b> RockAI Dev<br>
 <b>Status:</b> Full-Time Frontend Developer
+</p>
 
 </td>
 </tr>
 </table>
-
-</td>
-</tr>
-</table>
-
----
 
 <h2 align="left">👨‍💻 About Me</h2>
 
@@ -64,8 +44,6 @@ I'm a <b>Junior Frontend Developer</b> specializing in building modern, responsi
 <li>🔄 Redux Toolkit & React Query</li>
 <li>🏢 Full-Time Frontend Developer at <b>RockAI Dev</b></li>
 </ul>
-
----
 
 <h2 align="left">⚡ Tech Stack</h2>
 
@@ -107,8 +85,6 @@ I'm a <b>Junior Frontend Developer</b> specializing in building modern, responsi
 
 </div>
 
----
-
 <h2 align="left">📊 GitHub</h2>
 
 <div align="center">
@@ -118,8 +94,6 @@ I'm a <b>Junior Frontend Developer</b> specializing in building modern, responsi
 
 </div>
 
----
-
 <h2 align="left">🧠 What I Work With</h2>
 
 <ul>
@@ -128,8 +102,6 @@ I'm a <b>Junior Frontend Developer</b> specializing in building modern, responsi
 <li><b>State & Data:</b> Redux Toolkit, React Query, REST APIs</li>
 <li><b>Tools:</b> Git, GitHub, VS Code, Postman, Figma</li>
 </ul>
-
----
 
 <h2 align="left">📫 Connect With Me</h2>
 
@@ -144,8 +116,6 @@ I'm a <b>Junior Frontend Developer</b> specializing in building modern, responsi
 </a>
 
 </div>
-
----
 
 <div align="center">
 
